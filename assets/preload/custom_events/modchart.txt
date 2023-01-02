@@ -1,0 +1,4 @@
+0 = opp only
+1 = bf only
+2 = both
+3 = none
