@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 14,
+			"name": "B Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				4
+			],
+			"anim": "singLEFT",
+			"fps": 14,
+			"name": "B Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				6
+			],
+			"anim": "singDOWN",
+			"fps": 14,
+			"name": "B Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				4
+			],
+			"anim": "singUP",
+			"fps": 14,
+			"name": "B Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				9
+			],
+			"anim": "singRIGHT",
+			"fps": 14,
+			"name": "B Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				9
+			],
+			"anim": "singDOWNmiss",
+			"fps": 14,
+			"name": "miss1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-9,
+				7
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 14,
+			"name": "miss2",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-8,
+				8
+			],
+			"anim": "singLEFTmiss",
+			"fps": 14,
+			"name": "miss3",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-7,
+				7
+			],
+			"anim": "singUPmiss",
+			"fps": 14,
+			"name": "miss4",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BF_krampus",
+	"position": [
+		-600,
+		-530
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		177,
+		209
+	],
+	"camera_position": [
+		860,
+		40
+	],
+	"sing_duration": 6.1,
+	"scale": 1.4
+}
