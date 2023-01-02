@@ -1,0 +1,32 @@
+{
+	"storyName": "ayo wtf santa's here",
+	"difficulties": "Regular,Modcharts",
+	"hideFreeplay": false,
+	"weekBackground": "kramp",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"kramped",
+			"krampus",
+			[
+				100,
+				0,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "",
+	"hiddenUntilUnlocked": false
+}
